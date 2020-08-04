@@ -1,3 +1,6 @@
+Here is my attempt at continuing this HD texture pack. I probably forgot to commit some files here because I actually stopped development when I finished playing Fate Extra. Make sure to download from releases just in case I forgot some files here.
+
+# Original Description down below
 # Description
 This project intends to deliver a full texture pack for *Fate/Extra* on PSP. It is not intended to look professional, but will attempt look fairly polished. This texture pack is meant to be approximately 1080p quality textures (the PSP resolution makes having exactly 1080P a chore) which means everything is 4 times their original size.
 
