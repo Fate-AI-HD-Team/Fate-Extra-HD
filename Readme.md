@@ -1,5 +1,7 @@
 Here is my attempt at continuing this HD texture pack. I probably forgot to commit some files here because I actually stopped development when I finished playing Fate Extra. Make sure to download from releases just in case I forgot some files here.
 
+# Screenshots 
+![alt text](https://raw.githubusercontent.com/EmiyaBestBoy/fate-extra-texturepack/master/Preview%20Screenshots/PPSSPP%20v1.10.3-293-g60683cf4a%20-%20ULUS10576%20_%20Fate_EXTRA%20(instance_%201)%208_4_2020%208_30_02%20AM.png)
 # Original Description down below
 # Description
 This project intends to deliver a full texture pack for *Fate/Extra* on PSP. It is not intended to look professional, but will attempt look fairly polished. This texture pack is meant to be approximately 1080p quality textures (the PSP resolution makes having exactly 1080P a chore) which means everything is 4 times their original size.
