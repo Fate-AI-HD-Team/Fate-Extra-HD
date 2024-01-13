@@ -1,8 +1,6 @@
-Heyas, D3TR4KT1K here! First update of the texture pack and... is just the ReadMe. Let me explain what's going on. I don't know if you followed any of this since I created the Team and forked the 2020 repository from EmiyaBestBoy, which was the latest fork updated from the Ezehokadrim original repository project, left in 2017. If you don't understand why we didn't added any update the texture pack since June 2022, read below:
- 
-Fate AI HD Team - We are a small group in different timezones and languages, working at the same time in 2 Texture packs projects from 2 consoles (UC has a PS2 version with the half alpha and 4/3 complication) learning and improving ON THE GO.
-
-We are not related to Iwakura Prods and their work in Fate Extra CCC Translation, but there's a texture pack for Fate Extra CCC which is based on our initial AI Upscale code (thanks for info Fox). 
+Heyas, D3TR4KT1K here! Second update (wow, already Jan 2024) of the texture pack and... few changes are done. Chunk system is problematic to editing, merge, scale, tile again and rename, so, process is slow.  Here's a temporary screenshot of the update:
+![alt text](https://github.com/Fate-AI-HD-Team/Fate-Extra-HD/assets/63470108/6ea1ac4e-c9c4-439e-ac1d-2a48e9e092d4)
+Rooftop view - Temp reason is, sometimes doors are messed.
 
 # Contributing - (Actually looking for people interested to join us)
 None of us are artists, our reference is improve what is there, using upscaling algorithms to get decent looking upscales. The goal for now is improve even more the algorithm (Demon and Amakusa) to make the amount of manual postfix required lower possible. Any feedback is welcome, so:
